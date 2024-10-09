@@ -1,0 +1,40 @@
+
+html
+{
+  background-color: black;
+  color: white;
+}
+
+h1
+{
+font-size: 72px;
+color: yellow;
+text-transform: uppercase;
+text-align: center;
+}
+
+h2
+{
+    color: skyblue;
+    text-align: center;
+}
+
+.imagen
+{
+  width: 100%;
+  border: 5px solid skyblue;
+}
+
+.division
+{
+width: 50%;
+margin-left: 25%;
+
+}
+
+.externalfont
+ {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: italic;
+  }
